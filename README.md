@@ -5,10 +5,9 @@ This repository contains research and resources for converting thoughts to text 
 
 ### Table of Contents
 + [Overview](./#Overview)
-+ [Content]()
-+ [Download Links]()
-+ [Related Pages]()
-+ [Content]()
++ [Download Links](./#Download_Links)
++ [Related Pages](./#Related_Pages)
++ [Additional Notes](./#Additional_Notes)
 
 ### The repository is organized as follows:
 + **Research Paper**: A detailed paper explaining the proposed methods, experiments, and results.
@@ -21,8 +20,10 @@ Each section contains additional details and files relevant to the process of co
 ### Download Links
 Here you can add links to download datasets, pre-trained models, or additional resources required to run the project.
 
-EEG Dataset: [Download Link]
-Pre-trained Models: [Download Link]
+| File Name | Size |download link|
+|---|:---:|:---:|
+| original paper | 2.11MB | [download](https://github.com/EnAnsari/Bachelor-final-project/releases/download/dl/converting-your-thoughts-to-text.pdf) |
+
 *Note: Please make sure to adhere to the licensing requirements for any external datasets used in the project.*
 
 ### Related Pages
