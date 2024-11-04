@@ -4,10 +4,10 @@
 This repository contains research and resources for converting thoughts to text using EEG signals. This project explores the use of EEG-based brain-computer interfaces (BCIs) that leverage deep learning models to interpret motor imagery (MI) EEG signals. By applying neural networks, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), we aim to create a practical system that can interpret specific mental tasks and translate them into typing commands.
 
 ### Table of Contents
-+ [Overview](./#Overview)
-+ [Download Links](./#Download_Links)
-+ [Related Pages](./#Related_Pages)
-+ [Additional Notes](./#Additional_Notes)
++ [Overview](###Overview)
++ [Download Links](###Download-Links)
++ [Related Pages](###Related-Pages)
++ [Additional Notes](###Additional-Notes)
 
 ### The repository is organized as follows:
 + **Research Paper**: A detailed paper explaining the proposed methods, experiments, and results.
