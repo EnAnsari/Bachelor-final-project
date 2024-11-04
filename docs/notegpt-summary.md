@@ -18,3 +18,44 @@ This paper presents a novel brain-computer interface (BCI) using deep learning t
 + **Real-World Implementation**: The paper discusses practical deployment, illustrating how theoretical advancements can translate into tangible benefits for users, which is vital for the adoption of BCI technologies.
 + **Dataset Diversity**: The combination of a public dataset and a locally collected dataset showcases a comprehensive approach to validation, essential for ensuring the robustness of machine learning models in varied contexts.
 + **Future Research Directions**: The authors indicate plans to improve person-independent accuracy, which is critical for personalized BCI systems, suggesting ongoing research in understanding individual differences in EEG signals for better adaptability.
+
+
+---
+
+<details><summary><h1>Mind Map</h1> (click to expand)</summary>
+<details><summary>picture (click to expand)</summary>
+
+![NoteGPT_MindMap](https://github.com/user-attachments/assets/9386b3a3-3a01-413d-b82f-1095888c6055)
+
+</details>
+
+### Converting Your Thoughts to Texts: Enabling BrainTyping via Deep Feature Learning of EEG Signals
+#### Introduction to Brain-Computer Interfaces (BCI)
+- 🧠 BCIs allow communication through brain signals.
+- 💻 Motor imagery EEG (MI-EEG) reflects active intent for various applications.
+
+#### Challenges in EEG Signal Classification
+- 🔊 EEG signals are noisy and have low signal-to-noise ratios.
+- ⏳ Data pre-processing requires expertise and is time-consuming.
+- 📊 Limited accuracy in existing methods, especially for multi-class scenarios.
+
+#### Proposed Hybrid Deep Learning Framework
+- 🤖 Combines Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN).
+- 🔍 Uses Autoencoder for noise reduction and feature extraction.
+- 📈 Achieves high classification accuracy (95.53%) on large datasets.
+
+#### Practical Application: Brain Typing System
+- ⌨️ Converts user thoughts into typing commands in real-time.
+- 📡 Utilizes a portable EEG headset for data collection.
+- ⚡ Commands processed and displayed in a user-friendly interface.
+
+#### Evaluation and Results
+- 📅 Extensive testing on both public and local datasets.
+- 📊 Demonstrates consistency and adaptability of the proposed model.
+
+#### Future Work and Improvements
+- 🔍 Focus on enhancing accuracy across different subjects.
+- 🛠️ Address hardware limitations for better user experience.
+- 🌐 Explore broader applications of BCI technology in daily life.
+
+</details>
