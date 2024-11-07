@@ -23,6 +23,7 @@ Here you can add links to download datasets, pre-trained models, or additional r
 | File Name | Size |download link|
 |---|:---:|:---:|
 | original paper | 2.11MB | [download](https://github.com/EnAnsari/Bachelor-final-project/releases/download/dl/converting-your-thoughts-to-text.pdf) |
+| document | 1.0MB | [download](https://github.com/EnAnsari/Bachelor-final-project/releases/download/dl/doc.pdf) |
 
 *Note: Please make sure to adhere to the licensing requirements for any external datasets used in the project.*
 
